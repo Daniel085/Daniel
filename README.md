@@ -10,6 +10,37 @@ I build developer platforms and tools that multiply team capability. Currently e
 
 ## 🚀 Featured Projects
 
+### 📱 [iOS-WebRTC-Demo](https://github.com/Daniel085/iOS-WebRTC-Demo) - Production-Ready WebRTC Dialer
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![CallKit](https://img.shields.io/badge/-CallKit-000000)
+
+**Complete native iOS calling application with comprehensive documentation**
+
+A fully-documented implementation of a native iOS dialer using WebRTC for peer-to-peer voice and video calls. This showcases the intersection of iOS development, real-time communications, and system architecture:
+
+**Key Features:**
+- 📞 **Native CallKit Integration**: Lock screen calls, CarPlay, Bluetooth support
+- 🎥 **WebRTC Implementation**: High-quality peer-to-peer voice/video with encryption
+- 🔔 **VoIP Push Notifications**: Receive calls when app is terminated
+- 👥 **Contacts Integration**: Seamless iOS Contacts framework integration
+- 🔐 **Phone Authentication**: SMS-based verification flow
+- 📊 **Full Backend Architecture**: Signaling server, TURN/STUN, database schema
+
+**Documentation Highlights** (12 comprehensive guides):
+- Complete system architecture and implementation roadmap (10 weeks)
+- WebRTC integration patterns and best practices
+- CallKit implementation details
+- VoIP push notification setup
+- Security best practices (TLS 1.3, JWT, DTLS-SRTP)
+- Production deployment guide
+
+**Tech Stack**: Swift 5.9+, SwiftUI, GoogleWebRTC, CallKit, PushKit, Node.js, Socket.io, PostgreSQL
+**Status**: 📚 Fully documented with working code and setup guides
+**Why It Matters**: Demonstrates expertise in complex iOS features, WebRTC, and full-stack architecture
+
+[View Project →](https://github.com/Daniel085/iOS-WebRTC-Demo)
+
+---
+
 ### 📱 [Hearth](https://github.com/Daniel085/Hearth) - Privacy-First Relationship Assistant
 ![In Development](https://img.shields.io/badge/-In%20Development-yellow) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![Core ML](https://img.shields.io/badge/-Core%20ML-000000)
 
@@ -98,6 +129,7 @@ My professional background includes deep work on WebRTC and real-time video plat
 
 ### Core WebRTC Projects
 
+- **[iOS-WebRTC-Demo](https://github.com/Daniel085/iOS-WebRTC-Demo)** ⭐ - Complete native iOS dialer with CallKit (Swift, WebRTC)
 - **[twilio-video-app-react](https://github.com/Daniel085/twilio-video-app-react)** - React collaboration app with Twilio Video SDK
 - **[opentok-layout-js](https://github.com/Daniel085/opentok-layout-js)** - Layout manager for OpenTok Publishers/Subscribers
 - **[Twilio-rtc-diagnostics](https://github.com/Daniel085/Twilio-rtc-diagnostics)** - RTC diagnostics tools
@@ -126,7 +158,7 @@ My professional background includes deep work on WebRTC and real-time video plat
 **Specializations:**
 - API Development & Integration
 - WebRTC & Real-time Communication
-- iOS Development (SwiftUI, Core ML, Vision Framework)
+- iOS Development (SwiftUI, Core ML, Vision Framework, CallKit)
 - AI/LLM Integration & Prompt Engineering
 - Developer Experience (DX) Design
 - Product-Led Growth Strategies
