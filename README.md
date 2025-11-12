@@ -204,12 +204,4 @@ I believe the future of product management, especially in AI, requires hands-on 
 
 ---
 
-## 📊 GitHub Stats
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel085&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel085&layout=compact&theme=radical&hide_border=true)
-
----
-
 *"The best products are built by people who deeply understand their users. For developer tools, that means being a developer yourself."*
