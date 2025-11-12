@@ -4,7 +4,7 @@
 
 I build developer platforms and tools that multiply team capability. Currently exploring hands-on AI development because I believe the best product leaders need deep technical understanding of the technologies they're working with.
 
-📍 San Francisco | 💼 [LinkedIn](https://linkedin.com/in/danielororke) | 📧 daniel@ororke.com
+📍 Boise | 💼 [LinkedIn](https://linkedin.com/in/danielororke) | 📧 daniel@ororke.com
 
 ---
 
@@ -66,24 +66,6 @@ Active experimentation with Claude 4.5 Sonnet:
 **Last Updated**: October 2025
 
 [View Project →](https://github.com/Daniel085/new-project)
-
----
-
-### 🔐 [PermissionsPossibilities](https://github.com/Daniel085/PermissionsPossibilities)
-![Last Updated](https://img.shields.io/badge/Updated-Nov%202025-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-**Exploring modern web platform capabilities** *(Most Recently Updated!)*
-
-Experimental project testing browser APIs and permissions:
-
-- 🌐 Browser permission models and edge cases
-- 🔧 Modern web capabilities and progressive features
-- 📱 Testing what's possible with current web standards
-
-**Tech Stack**: HTML, JavaScript, Web APIs
-**Last Updated**: November 2025
-
-[View Project →](https://github.com/Daniel085/PermissionsPossibilities)
 
 ---
 
