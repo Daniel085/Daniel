@@ -1,88 +1,194 @@
-# Hi, I'm Daniel 👋
+# 👋 Hi, I'm Daniel O'Rorke
 
-**Product Manager | Developer Tools & API Specialist | AI Builder**
+**Product Manager | Developer Tools & APIs | Building with AI**
 
-With 10+ years of experience in developer tools and APIs, I'm currently exploring the intersection of product management and AI development. I believe in building products that developers actually want to use—and I like to get my hands dirty with code to understand the developer experience firsthand.
+I build developer platforms and tools that multiply team capability. Currently exploring hands-on AI development because I believe the best product leaders need deep technical understanding of the technologies they're working with.
+
+📍 San Francisco | 💼 [LinkedIn](https://linkedin.com/in/danielororke) | 📧 daniel@ororke.com
+
+---
 
 ## 🚀 Featured Projects
 
-### [PermissionsPossibilities](https://github.com/Daniel085/PermissionsPossibilities)
-![Last Updated](https://img.shields.io/badge/Updated-Nov%202025-blue)
+### 📱 [Hearth](https://github.com/Daniel085/Hearth) - Privacy-First Relationship Assistant
+![In Development](https://img.shields.io/badge/-In%20Development-yellow) ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) ![Core ML](https://img.shields.io/badge/-Core%20ML-000000)
 
-Exploring modern permissions systems and authorization patterns. Built to understand and implement fine-grained access control in modern applications.
+**iOS app using Core ML for on-device AI relationship management**
 
-**Tech:** ![Auth](https://img.shields.io/badge/-Authorization-orange) ![Security](https://img.shields.io/badge/-Security-red)
+A thoughtful companion for nurturing meaningful relationships, inspired by the attentive personal assistants of the 1950s:
 
----
+- 🧠 **On-device Core ML**: All AI processing happens locally—no cloud, no data collection
+- 📸 **Vision Framework**: Analyzes photos to identify important people in your life
+- 📍 **Pattern Learning**: Understands your communication rhythms and relationship habits
+- 🎯 **Contextual Reminders**: Gentle, thoughtful prompts—never intrusive notifications
+- 🔒 **Privacy-First**: Full control over data, optional encrypted iCloud sync
 
-### [GrocerySelector](https://github.com/Daniel085/GrocerySelector)
-![AI](https://img.shields.io/badge/-AI%20Powered-blueviolet) ![Integration](https://img.shields.io/badge/-Walmart%20API-yellow)
+**Tech Stack**: Swift, SwiftUI, Core ML, Vision, PhotoKit, EventKit, Core Location
+**Status**: 🎨 Design phase complete, moving to implementation
+**Philosophy**: Intentional connection over reactive social media noise
 
-AI-powered meal planning application with seamless Walmart cart integration. Ask for meal suggestions based on your preferences, dietary restrictions, or what's in your pantry—then add ingredients directly to your Walmart cart.
-
-**Tech:** ![AI](https://img.shields.io/badge/-AI-blueviolet) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![API](https://img.shields.io/badge/-REST%20API-green)
-
----
-
-### [new-project](https://github.com/Daniel085/new-project)
-![Experimental](https://img.shields.io/badge/-Experimental-ff69b4)
-
-My playground for exploring Claude 4.5 Sonnet's capabilities. Testing the boundaries of what's possible with state-of-the-art AI in real-world TypeScript applications.
-
-**Tech:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude%204.5-blueviolet) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+[View Project →](https://github.com/Daniel085/Hearth)
 
 ---
 
-### [Hearth](https://github.com/Daniel085/Hearth)
-![In Development](https://img.shields.io/badge/-In%20Development-yellow)
+### 🛒 [GrocerySelector](https://github.com/Daniel085/GrocerySelector)
+![AI](https://img.shields.io/badge/-AI%20Powered-blueviolet) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![API](https://img.shields.io/badge/-REST%20API-green)
 
-Building connections and community through technology. More details coming soon!
+**End-to-end automation from AI meal plans to populated shopping cart**
 
-**Tech:** TBD
+Demonstrates practical AI + API orchestration:
+
+- 🍳 AI generates personalized meal plans based on preferences
+- 🛒 Automatically searches and adds ingredients to Walmart cart via API
+- 🔗 Complete workflow automation from idea to checkout
+- 📊 Shows API integration, prompt engineering, and e-commerce automation
+
+**Tech Stack**: JavaScript, Claude/OpenAI API, Walmart API
+**Last Updated**: October 2025
+
+[View Project →](https://github.com/Daniel085/GrocerySelector)
 
 ---
 
-### Recent Work: WebRTC Demo
-![Real-time](https://img.shields.io/badge/-Real--time%20Communication-blue) ![New](https://img.shields.io/badge/-Just%20Built-brightgreen)
+### 🤖 [Claude 4.5 Sonnet Experiments](https://github.com/Daniel085/new-project)
+![Experimental](https://img.shields.io/badge/-Experimental-ff69b4) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-Just shipped a WebRTC demonstration exploring peer-to-peer communication. Diving deep into real-time web technologies and understanding the challenges of building seamless video/audio experiences.
+**Hands-on exploration of latest Claude capabilities**
 
-**Tech:** ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+Active experimentation with Claude 4.5 Sonnet:
+
+- 💬 Prompt engineering and context management
+- 🔄 Building conversational AI workflows
+- 🧪 Testing edge cases and model limitations
+- 🚀 Practical implementations of AI features
+
+**Tech Stack**: TypeScript, Anthropic Claude API
+**Last Updated**: October 2025
+
+[View Project →](https://github.com/Daniel085/new-project)
+
+---
+
+### 🔐 [PermissionsPossibilities](https://github.com/Daniel085/PermissionsPossibilities)
+![Last Updated](https://img.shields.io/badge/Updated-Nov%202025-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**Exploring modern web platform capabilities** *(Most Recently Updated!)*
+
+Experimental project testing browser APIs and permissions:
+
+- 🌐 Browser permission models and edge cases
+- 🔧 Modern web capabilities and progressive features
+- 📱 Testing what's possible with current web standards
+
+**Tech Stack**: HTML, JavaScript, Web APIs
+**Last Updated**: November 2025
+
+[View Project →](https://github.com/Daniel085/PermissionsPossibilities)
+
+---
+
+## 💼 Background & Expertise
+
+**10+ Years Building Developer Tools & APIs**
+
+Led product strategy for communications APIs and developer platforms at:
+- **Vonage (TokBox)** - WebRTC video platform
+- **SendGrid** - Email API infrastructure
+- **VoiceBase** - Voice analytics APIs
+- **Aerohive Networks** - WiFi automation platforms
+- **Charter Communications** - Broadband services
+
+**Key Achievements:**
+- 📈 **$3M in revenue** captured through migration automation at Vonage
+- ⚡ **60% faster integration** via comprehensive developer tools at VoiceBase
+- 📉 **40% reduction** in support tickets through self-serve analytics
+- 🎓 **ISTE "Best in Show"** award for HiveSchool WebRTC app
+- 🏆 **2 patents** in WiFi credential automation (15/073,593 & 62/350,158)
+- 📚 Established **Product-Led Growth frameworks** at SendGrid used across the organization
+
+Managed SDKs across iOS, Android, Web, Windows, Linux, and HoloLens. Deep experience with WebRTC, REST APIs, and creating exceptional developer experiences. Proven track record scaling platforms through **20-50x growth**.
+
+---
+
+## 🎓 WebRTC & Real-Time Communication Expertise
+
+My professional background includes deep work on WebRTC and real-time video platforms:
+
+### Core WebRTC Projects
+
+- **[twilio-video-app-react](https://github.com/Daniel085/twilio-video-app-react)** - React collaboration app with Twilio Video SDK
+- **[opentok-layout-js](https://github.com/Daniel085/opentok-layout-js)** - Layout manager for OpenTok Publishers/Subscribers
+- **[Twilio-rtc-diagnostics](https://github.com/Daniel085/Twilio-rtc-diagnostics)** - RTC diagnostics tools
+- **[MixedReality-WebRTC](https://github.com/Daniel085/MixedReality-WebRTC)** - Microsoft HoloLens WebRTC integration
+- **[opentok-ios-sdk-samples](https://github.com/Daniel085/opentok-ios-sdk-samples)** - iOS SDK examples
+- **[AdapterJS](https://github.com/Daniel085/AdapterJS)** - WebRTC compatibility polyfill
+
+---
 
 ## 🛠️ Technical Skills
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+**Current Stack:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
-### AI & ML
+**Expanding Skills:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Core ML](https://img.shields.io/badge/-Core%20ML-000000)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude%20AI-blueviolet)
-![AI APIs](https://img.shields.io/badge/-AI%20APIs-orange)
-![LLMs](https://img.shields.io/badge/-LLMs-red)
 
-### Product & API Design
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-green)
-![API Design](https://img.shields.io/badge/-API%20Design-blue)
-![Developer Experience](https://img.shields.io/badge/-DX-purple)
-![Product Management](https://img.shields.io/badge/-Product%20Management-ff6b6b)
+**Specializations:**
+- API Development & Integration
+- WebRTC & Real-time Communication
+- iOS Development (SwiftUI, Core ML, Vision Framework)
+- AI/LLM Integration & Prompt Engineering
+- Developer Experience (DX) Design
+- Product-Led Growth Strategies
 
-### Real-time & Communication
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/-WebSockets-010101)
+**Foundation:**
+- Java, C++, x86 Assembly (UC San Diego CS)
+- Systems-level understanding
+- Econometric modeling & regression analysis
 
-## 💼 Background
+---
 
-I'm a Product Manager with over a decade of experience shipping developer tools and API products. My career has been focused on one thing: making developers' lives easier. From designing intuitive APIs to building tools that just work, I've always believed the best way to build for developers is to be one.
+## 🧪 Other Notable Projects
 
-Currently, I'm exploring how AI is transforming the developer experience. I'm hands-on with Claude, GPT, and other LLMs, building real applications to understand where AI shines and where it needs help. My goal is to bridge the gap between AI capabilities and practical, production-ready tools that developers can rely on.
+### Developer Tools & APIs
+- **[V3API](https://github.com/Daniel085/V3API)** - Change tracking for console
+
+### Python & Automation
+- **[ChippyRuxpin](https://github.com/Daniel085/ChippyRuxpin)** - Teddy Ruxpin text-to-speech hack
+- **[sample-python-autoreply](https://github.com/Daniel085/sample-python-autoreply)** - Twitter bot automation
+
+### IoT & Mobile
+- **[Wireless_Broadband_IoT_Dev_Kit](https://github.com/Daniel085/Wireless_Broadband_IoT_Dev_Kit)** - Twilio wireless IoT development
+- **[broadlink-ios](https://github.com/Daniel085/broadlink-ios)** - Smart home integration
+
+### Authentication & Security
+- **[auth0.js](https://github.com/Daniel085/auth0.js)** - Auth0 headless browser SDK
+
+---
 
 ## 📫 Let's Connect
 
-- 💬 Open to collaborating on AI-powered developer tools
-- 🌱 Currently learning: Advanced prompt engineering, RAG systems, and AI agent frameworks
-- 🎯 2025 Goals: Ship more AI-powered tools, contribute to open source, share learnings about building with AI
+- 📧 Email: daniel@ororke.com
+- 💼 LinkedIn: [linkedin.com/in/danielororke](https://linkedin.com/in/danielororke)
+- 📱 Phone: 408-768-4570
+
+---
+
+## 💡 Philosophy
+
+I believe the future of product management, especially in AI, requires hands-on understanding of the technology. My repos reflect this: from exploring Core ML on-device processing to experimenting with the latest LLMs, from building WebRTC applications to creating practical automation tools.
+
+**I don't just manage products—I build them.**
+
+---
 
 ## 📊 GitHub Stats
 
